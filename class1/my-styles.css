@@ -1,0 +1,14 @@
+body{
+	background-color: #000;
+	color: #FFF;
+	text-align: center;
+	margin: 200px;
+}
+
+/*Change Font Family to a Serif font*/
+h1{
+	border: 4px double #FFF;
+	display: inline;
+	padding: 20px;
+	font-family: Arial, serif;
+}
