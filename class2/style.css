@@ -1,0 +1,64 @@
+body{
+	text-align: center;
+	background: url(https://images.unsplash.com/39/IKMsqwyaR6qN0kq48STw_annapurna.jpg);
+	background-size: cover;
+	font-family: 'Lucida Sans Unicode', Arial, serif;
+}
+
+ul#nav-main{
+	list-style-type: none;
+	margin-top: 100px;
+}
+
+#nav-main li{
+	display: inline;
+	background-color: #fcca2f;
+	padding: 20px;
+}
+
+h1{
+	margin-top: 100px;
+}
+
+a{
+	background-color: #fcca2f;
+	padding: 20px;
+	border-radius: 3px;
+	text-decoration: none;
+	color: #FFF;
+	font-weight: bold;
+	margin-top: 35px;
+    display: inline-block;	
+}
+
+section.contact{
+	background-color: #FDD761;
+	min-height: 500px;
+}
+
+section.contact h1{
+	text-decoration: underline;
+}
+
+ul#nav-social{
+	list-style-type: none;
+	margin-top: 30px;
+	color: #FFF;
+}
+
+#nav-social li{
+	display: inline;
+}
+
+#button-mail{
+	background-color: red;
+}
+
+.button-blue{
+	background-color: #44566F;
+}
+
+.contact a{
+	background-color: green;
+}
+
