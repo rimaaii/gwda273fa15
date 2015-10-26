@@ -1,1 +1,3 @@
-# gwda273fa15
+# GWDA273 Fall 15
+## Intermediate Web Design
+
