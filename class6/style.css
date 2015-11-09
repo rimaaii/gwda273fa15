@@ -1,0 +1,36 @@
+body{
+	margin: 0;
+}
+
+header{
+	background-color: #333;
+	color: #FFF;
+	width: 100%;
+	padding-top: 20px;
+	padding-right: 40px;
+	padding-bottom: 20px;
+	padding-left: 40px;
+	padding: 20px 40px;	
+}
+
+main{
+	overflow: hidden;
+	width: 13800px;
+	margin: 0 auto;
+}
+div{
+	width: 300px;
+	height: 300px;
+	border: 2px solid #000;
+	overflow: hidden;
+	float: left;
+	margin: 20px;
+}
+
+footer{
+	background-color: #000;
+	color: #FFF;
+	padding: 20px;
+}
+
+
