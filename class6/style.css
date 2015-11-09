@@ -33,4 +33,16 @@ footer{
 	padding: 20px;
 }
 
+nav{
+	overflow: hidden;
+}
+
+li {
+	float:left;
+	list-style: none;
+	padding: 10px;
+	border: 1px solid #DDD;
+	margin: 10px;
+}
+
 
