@@ -1,0 +1,47 @@
+body, ul{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+
+header{
+	background-color: #BADA55;
+	overflow: hidden;
+}
+
+nav{
+	float: right;
+}
+
+li{
+	list-style: none;
+	float:left;
+	margin: 5px;
+	border: 1px solid black;
+	padding: 5px;
+	border-radius: 3px;
+	transition: 1s all;
+}
+
+li:hover{
+	background-color: #A4C04B;
+}
+
+main{
+	width: 966px;
+	margin: 0 auto;
+	text-align: center;	
+}
+
+div{
+	border: 1px solid black;
+	width: 300px;
+	float: left;
+	margin: 10px;
+
+}
+
+div	img{
+	width: 300px;
+	height: 485px;
+}
